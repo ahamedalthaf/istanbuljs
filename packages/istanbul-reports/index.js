@@ -4,6 +4,8 @@
  */
 var path = require('path');
 
+/* This is a testing sample */
+
 module.exports = {
     create: function (name, cfg) {
         cfg = cfg || {};
