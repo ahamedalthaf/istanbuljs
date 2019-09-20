@@ -42,7 +42,7 @@
     "istanbul-lib-instrument": "^1.10.2",
     "istanbul-lib-report": "^1.1.5",
     "istanbul-lib-source-maps": "^1.2.6",
-    "istanbul-reports": "^1.5.1",
+    "istanbul-reports": "^6",
     "js-yaml": "^3.7.0",
     "mkdirp": "^0.5.1",
     "once": "^1.4.0"
