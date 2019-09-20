@@ -3,6 +3,9 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.3.18"></a>
+## [1.3.18](https://github.com/ahamedalthaf/istanbuljs/compare/master...ahamedalthaf:testing1234) (2018-09-19)
+
 <a name="1.3.7"></a>
 ## [1.3.7](https://github.com/istanbuljs/istanbuljs/compare/istanbul-api@1.2.2...istanbul-api@1.3.7) (2018-09-05)
 
